@@ -1,83 +1,117 @@
-# 👋 Hi, I’m a Cybersecurity Professional (Cloud Security Upskilling)
+# 👋 Hi, I’m a Cybersecurity Professional (Cloud Security & DevSecOps Upskilling)
 
-**Cybersecurity | Virtualized Platforms | Cloud Security (Upskilling) | C4ISR | DevSecOps**
+**Cybersecurity | Virtualized Platforms | Cloud Security | C4ISR | DevSecOps**
 
-Mission-focused cybersecurity professional with **30+ years supporting DoD and classified operational environments**, including **6 years in dedicated cybersecurity roles** securing **C4ISR platforms**. Background spans operations, mission assurance, and **ISSO leadership**, with deep experience securing **long-lifecycle systems** under **RMF**.
+Mission-focused cybersecurity professional with **30+ years supporting DoD and classified operational environments**, including **6 years in dedicated cybersecurity roles** securing **C4ISR and mission-critical platforms**. Background spans operations, mission assurance, and **ISSO leadership**, with deep experience securing **long-lifecycle systems** under **RMF**.
 
-Currently **upskilling in cloud security and DevSecOps**, building on a foundation of securing **physical and virtualized platforms** while supporting modernization efforts and maintaining mission continuity.
+I am currently **upskilling in cloud security and DevSecOps**, intentionally bridging traditional infrastructure security with modern AWS, Kubernetes, and Infrastructure-as-Code practices — without abandoning operational discipline, auditability, or mission continuity.
 
 ---
 
 ## 🎯 Professional Focus
 
-Cybersecurity professional with **hands-on experience securing physical, virtualized, and mission-critical systems**, specializing in:
+Cybersecurity professional specializing in:
 
-- **RMF sustainment and audit readiness**
-- **Virtualized platform security (VMware, KVM)**
-- **Linux system hardening and validation**
-- Bridging **traditional infrastructure security** with **cloud and DevSecOps practices**
+- **ISSO / RMF sustainment** and continuous monitoring
+- **Virtualized platform security** (VMware, KVM)
+- **Linux system hardening** and validation
+- **Compliance-aware infrastructure operations**
+- Pragmatic, security-first cloud adoption
 
-Currently focused on **cloud security and DevSecOps upskilling**, with an emphasis on disciplined, production-safe transitions rather than lift-and-shift experimentation.
-
-Best aligned with roles that value **operational security maturity**, compliance discipline, and pragmatic modernization.
+My focus is on **doing cloud securely and correctly**, not rapidly or experimentally.
 
 ---
 
 ## 🔐 Core Expertise
 
-- Cybersecurity for **C4ISR / mission systems**
-- **ISSO / RMF** sustainment & continuous monitoring
-- Vulnerability management (**ACAS**) and POA&M tracking
-- Mission assurance & inspection readiness
-- Linux system hardening (security-first configurations)
+- Cybersecurity for **C4ISR and mission systems**
+- **RMF**, audit readiness, and POA&M management
+- Vulnerability management (**ACAS**)
+- Mission assurance and inspection support
+- Secure Linux system administration
 
 ---
 
 ## ☁️ Cloud Security & DevSecOps (Upskilling Focus)
 
-- Cloud security fundamentals (**AWS-focused learning path**)
+- AWS cloud security fundamentals
 - Infrastructure as Code (**Terraform**)
 - CI/CD pipelines (**Jenkins**)
-- Configuration management & automation (**Ansible**)
+- Configuration management (**Ansible**)
 - Secure hybrid and on-prem → cloud transition patterns
+
+Cloud learning is approached through **guardrails, least privilege, and visibility**, not shortcuts.
 
 ---
 
 ## 🛠️ Technologies & Platforms
 
-`Linux` · `VMware` · `KVM` · `Terraform` · `Ansible` · `Jenkins` · `Git` · `RMF` · `ACAS` · `AWS (learning)` · `DevSecOps`
+`Linux` · `VMware` · `KVM` · `AWS` · `Terraform` · `Ansible` · `Jenkins` ·  
+`Kubernetes` · `EKS` · `IAM` · `RMF` · `ACAS` · `DevSecOps`
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Repositories
 
 ### 🔹 RHCSA (EX200) Practice Repository – RHEL 10
+A **hands-on Linux administration and validation repository** built to mirror **real Red Hat exam and production conditions**.
 
-A **hands-on Linux administration and validation repository** designed to mirror **real Red Hat exam conditions and real operational environments**.
-
-This project emphasizes:
-- Outcome-based configuration
 - Security-first defaults (SELinux enforcing, firewalld enabled)
 - Persistence and reboot validation
-- Minimal, auditable changes
-- Read-only auto-grading paired with manual validation
+- Read-only auto-grading with manual verification
+- Timed mock exam and grading checklist
 
-**What it includes:**
-- Structured labs (users, storage, networking, services, SELinux, scripting, containers)
-- VM build and reset guides
-- Manual validation checklists
-- Read-only auto-grading scripts
-- Timed mock exam with grading rubric
-- One-page exam cram sheet
+👉 https://github.com/<your-username>/rhcsa-ex200
 
-**Why it matters professionally:**
-- Demonstrates disciplined Linux administration
-- Reinforces reliability and security habits
-- Mirrors production and compliance-driven environments
-- Avoids fragile or shortcut configurations
+---
 
-👉 Repository:  
-`https://github.com/<your-username>/rhcsa-ex200`
+### 🔹 AWS Cloud Security Foundations
+A **security-first AWS learning repository** focused on IAM, logging, network controls, and audit-ready cloud design.
+
+- Shared responsibility model
+- Least-privilege IAM patterns
+- Visibility and logging fundamentals
+- Certification-aligned without “click-through” labs
+
+👉 https://github.com/<your-username>/aws-cloud-security-foundations
+
+---
+
+### 🔹 AWS EKS Secure Foundations
+A **single-region, security-first Amazon EKS foundation** built with Terraform.
+
+- IAM Roles for Service Accounts (IRSA) with OIDC
+- Secure EKS add-ons deployed via Helm
+- Observability and operational readiness
+- Explicit scope and guardrails (not multi-region)
+
+This repo emphasizes **auditability, correctness, and operational realism** over feature sprawl.
+
+👉 https://github.com/<your-username>/aws-eks-secure-foundations
+
+---
+
+### 🔹 RMF Operational Playbooks
+Documentation-focused repository translating RMF concepts into **day-to-day operational workflows**.
+
+- Continuous monitoring practices
+- POA&M lifecycle management
+- Inspector and auditor expectations
+- Practical compliance guidance
+
+👉 https://github.com/<your-username>/rmf-operational-playbooks
+
+---
+
+### 🔹 Secure IaC Foundations
+A guardrail-focused approach to Infrastructure as Code.
+
+- Terraform structure and state safety
+- Change impact awareness
+- Secure defaults
+- Automation with intent, not abstraction for its own sake
+
+👉 https://github.com/<your-username>/secure-iac-foundations
 
 ---
 
@@ -95,38 +129,26 @@ If it doesn’t survive reboot, it isn’t finished.
 
 ## 💼 Professional Philosophy
 
-- Automation should **amplify understanding**, not hide mistakes
 - Security controls should be **enforced**, not bypassed
-- Validation and documentation matter as much as configuration
+- Automation should **amplify understanding**, not hide risk
+- Validation and documentation are part of the system
 - Clean, minimal systems are easier to secure and maintain
-- Modernization should respect operational reality
-
----
-
-## 📌 What You’ll Find Here
-
-This GitHub focuses on:
-
-- Infrastructure-as-Code patterns for secure environments
-- DevSecOps labs and reference implementations
-- Linux hardening and automation examples
-- Documentation-driven security workflows
-
-> Repositories are designed to be **practical**, **auditable**, and **production-oriented**.
+- Modernization must respect operational reality
 
 ---
 
 ## 🤝 Collaboration
 
-Interested in collaboration around:
+Open to collaboration around:
 
 - Secure infrastructure design
 - DevSecOps enablement
 - Cloud security transition strategies
 - Compliance-aware automation
 
-Feel free to open issues or discussions on relevant repositories.
+Issues and discussions are welcome where appropriate.
 
 ---
 
-_This profile and its repositories are intended to demonstrate practical skill, professional judgment, and operational discipline — not theoretical security alone._
+_This profile and its repositories are intended to demonstrate **practical skill, operational judgment, and security discipline** — not theoretical security alone._
+
