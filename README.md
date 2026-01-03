@@ -61,7 +61,7 @@ A **hands-on Linux administration and validation repository** built to mirror **
 - Read-only auto-grading with manual verification
 - Timed mock exam and grading checklist
 
-👉 https://github.com/<your-username>/rhcsa-ex200
+👉 https://github.com/tucker-st/rhcsa-ex200
 
 ---
 
@@ -73,7 +73,7 @@ A **security-first AWS learning repository** focused on IAM, logging, network co
 - Visibility and logging fundamentals
 - Certification-aligned without “click-through” labs
 
-👉 https://github.com/<your-username>/aws-cloud-security-foundations
+👉 https://github.com/tucker-st/aws-cloud-security-foundations
 
 ---
 
@@ -87,7 +87,7 @@ A **single-region, security-first Amazon EKS foundation** built with Terraform.
 
 This repo emphasizes **auditability, correctness, and operational realism** over feature sprawl.
 
-👉 https://github.com/<your-username>/aws-eks-secure-foundations
+👉 https://github.com/tucker-st/aws-eks-secure-foundations
 
 ---
 
@@ -99,7 +99,7 @@ Documentation-focused repository translating RMF concepts into **day-to-day oper
 - Inspector and auditor expectations
 - Practical compliance guidance
 
-👉 https://github.com/<your-username>/rmf-operational-playbooks
+👉 https://github.com/tucker-st/rmf-operational-playbooks
 
 ---
 
@@ -111,7 +111,7 @@ A guardrail-focused approach to Infrastructure as Code.
 - Secure defaults
 - Automation with intent, not abstraction for its own sake
 
-👉 https://github.com/<your-username>/secure-iac-foundations
+👉 https://github.com/tucker-st/secure-iac-foundations
 
 ---
 
