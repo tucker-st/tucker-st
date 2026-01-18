@@ -46,8 +46,8 @@ Cloud learning is approached through **guardrails, least privilege, and visibili
 
 ## 🛠️ Technologies & Platforms
 
-`Linux` · `VMware` · `KVM` · `AWS` · `Terraform` · `Ansible` · `Jenkins` ·  
-`Kubernetes` · `EKS` · `IAM` · `RMF` · `ACAS` · `DevSecOps`
+Linux · VMware · KVM · AWS · Terraform · Ansible · Jenkins ·  
+Kubernetes · EKS · IAM · RMF · ACAS · DevSecOps
 
 ---
 
@@ -61,7 +61,7 @@ A **security-first AWS learning repository** focused on IAM, logging, network co
 - Visibility and logging fundamentals
 - Certification-aligned without “click-through” labs
 
-👉 https://github.com/tucker-st/aws-cloud-security-foundations
+https://github.com/tucker-st/aws-cloud-security-foundations
 
 ---
 
@@ -75,7 +75,7 @@ A **single-region, security-first Amazon EKS foundation** built with Terraform.
 
 This repository emphasizes **auditability, correctness, and operational realism** over feature sprawl.
 
-👉 https://github.com/tucker-st/aws-eks-secure-foundations
+https://github.com/tucker-st/aws-eks-secure-foundations
 
 ---
 
@@ -87,38 +87,49 @@ A guardrail-focused approach to Infrastructure as Code.
 - Secure defaults
 - Automation with intent, not abstraction for its own sake
 
-👉 https://github.com/tucker-st/secure-iac-foundations
+https://github.com/tucker-st/secure-iac-foundations
+
+---
+
+### 🔹 Container Image Hygiene & Change Visibility
+A **platform hygiene control** focused on Docker image lifecycle awareness and change tracking.
+
+- Captures Docker image state before and after updates
+- Pulls existing images with explicit visibility into change
+- Produces reproducible, reviewable change artifacts (diffs and logs)
+- Designed to support operational hygiene, drift awareness, and evidence generation
+
+This repository demonstrates **DevSecOps lifecycle discipline and change visibility**, not vulnerability scanning or compliance tooling.
+
+https://github.com/tucker-st/docker-image-hygiene
 
 ---
 
 ### 🔹 RMF Operational Playbooks
-Documentation-focused repository translating RMF concepts into **day-to-day operational workflows**.
+A documentation-focused repository translating RMF concepts into **day-to-day operational workflows**.
 
 - Continuous monitoring practices
 - POA&M lifecycle management
 - Inspector and auditor expectations
 - Practical compliance guidance
 
-👉 https://github.com/tucker-st/rmf-operational-playbooks
+https://github.com/tucker-st/rmf-operational-playbooks
 
 ---
 
 ## 🧱 Foundational Systems Expertise
 
 ### 🔹 RHCSA (EX200) Practice Repository – RHEL 10
-A **hands-on Linux administration and validation repository** demonstrating
-production-grade system administration fundamentals that underpin secure
-cloud, container, and virtualized platforms.
+A **hands-on Linux administration and validation repository** demonstrating production-grade system administration fundamentals that underpin secure cloud, container, and virtualized platforms.
 
 - SELinux enforcing and firewalld enabled by default
 - Persistence and reboot validation (no ephemeral fixes)
 - Read-only auto-grading with manual verification
 - Timed mock exams aligned with real operational pressure
 
-This repository reinforces the **Linux operational discipline** required for
-secure Kubernetes, hardened cloud workloads, and compliance-aware environments.
+This repository reinforces the **Linux operational discipline** required for secure Kubernetes, hardened cloud workloads, and compliance-aware environments.
 
-👉 https://github.com/tucker-st/rhcsa-ex200
+https://github.com/tucker-st/rhcsa-ex200
 
 ---
 
@@ -157,4 +168,4 @@ Issues and discussions are welcome where appropriate.
 
 ---
 
-_This profile and its repositories are intended to demonstrate **practical skill, operational judgment, and security discipline** — not theoretical security alone._
+This profile and its repositories are intended to demonstrate **practical skill, operational judgment, and security discipline** — not theoretical security alone.
