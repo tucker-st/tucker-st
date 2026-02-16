@@ -2,7 +2,8 @@
 
 **Cybersecurity | Virtualized Platforms | Cloud Security | C4ISR | DevSecOps**
 
-Mission-focused cybersecurity professional with **30+ years supporting DoD and classified operational environments**, including **6 years in dedicated cybersecurity roles** securing **C4ISR and mission-critical platforms**. My background spans operations, mission assurance, and **ISSO leadership**, with deep experience securing **long-lifecycle systems** under **RMF**.
+Mission-focused cybersecurity professional with extensive experience supporting complex, high-availability operational environments, including several years in dedicated cybersecurity roles securing mission-critical platforms. Experienced in operations security, mission assurance, security governance, and protecting long-lifecycle systems within regulated enterprise environments.
+Currently advancing into cloud security and DevSecOps, integrating traditional infrastructure security principles with modern AWS, Kubernetes, and Infrastructure-as-Code practices. Focused on maintaining operational discipline, auditability, regulatory alignment, and business continuity while adapting to cloud-native architectures.
 
 I am currently **upskilling in cloud security and DevSecOps**, intentionally bridging traditional infrastructure security with modern AWS, Kubernetes, and Infrastructure-as-Code practices — without abandoning operational discipline, auditability, or mission continuity.
 
