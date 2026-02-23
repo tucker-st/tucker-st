@@ -1,171 +1,196 @@
-# 👋 Hi, I’m a Cybersecurity Professional (Cloud Security & DevSecOps Upskilling)
+# 👋 Hi, I'm a Cybersecurity Professional (Cloud Security & DevSecOps)
 
-**Cybersecurity | Virtualized Platforms | Cloud Security | C4ISR | DevSecOps**
+**Cybersecurity \| Virtualized Platforms \| Cloud Security \|
+DevSecOps**
 
-Mission-focused cybersecurity professional with **30+ years supporting DoD and classified operational environments**, including **6 years in dedicated cybersecurity roles** securing **C4ISR and mission-critical platforms**. My background spans operations, mission assurance, and **ISSO leadership**, with deep experience securing **long-lifecycle systems** under **RMF**.
+Mission-focused cybersecurity professional with extensive experience
+supporting complex, high-availability operational environments,
+including dedicated cybersecurity roles securing enterprise and
+mission-critical platforms. Background includes security governance,
+operational risk management, mission assurance, and protecting
+long-lifecycle systems within regulated environments.
 
-I am currently **upskilling in cloud security and DevSecOps**, intentionally bridging traditional infrastructure security with modern AWS, Kubernetes, and Infrastructure-as-Code practices — without abandoning operational discipline, auditability, or mission continuity.
+Now focused on advancing cloud security and DevSecOps capabilities ---
+integrating traditional infrastructure security discipline with modern
+AWS, Kubernetes, and Infrastructure-as-Code practices. My approach
+emphasizes operational continuity, auditability, least privilege, and
+sustainable architecture over rapid experimentation.
 
----
+------------------------------------------------------------------------
 
 ## 🎯 Professional Focus
 
 Cybersecurity professional specializing in:
 
-- **ISSO / RMF sustainment** and continuous monitoring  
-- **Virtualized platform security** (VMware, KVM)  
-- **Linux system hardening** and validation  
-- **Compliance-aware infrastructure operations**  
-- Pragmatic, security-first cloud adoption  
+-   Security governance and continuous monitoring\
+-   Virtualized platform security (VMware, KVM)\
+-   Linux system hardening and validation\
+-   Compliance-aligned infrastructure operations\
+-   Security-first cloud adoption
 
-My focus is on **doing cloud securely and correctly**, not rapidly or experimentally.
+The objective is to build cloud environments that are secure,
+observable, and operationally resilient from day one.
 
----
+------------------------------------------------------------------------
 
 ## 🔐 Core Expertise
 
-- Cybersecurity for **C4ISR and mission systems**
-- **RMF**, audit readiness, and POA&M management
-- Vulnerability management (**ACAS**)
-- Mission assurance and inspection support
-- Secure Linux system administration
+-   Cybersecurity for mission-critical and enterprise systems\
+-   Governance frameworks and audit readiness\
+-   Vulnerability management and remediation tracking\
+-   Operational risk management\
+-   Secure Linux system administration
 
----
+------------------------------------------------------------------------
 
-## ☁️ Cloud Security & DevSecOps (Upskilling Focus)
+## ☁️ Cloud Security & DevSecOps Focus
 
-- AWS cloud security fundamentals
-- Infrastructure as Code (**Terraform**)
-- CI/CD pipelines (**Jenkins**)
-- Configuration management (**Ansible**)
-- Secure hybrid and on-prem → cloud transition patterns
+-   AWS security architecture fundamentals\
+-   Infrastructure as Code (Terraform)\
+-   CI/CD pipelines (Jenkins)\
+-   Configuration management (Ansible)\
+-   Secure hybrid and on-prem → cloud transition patterns
 
-Cloud learning is approached through **guardrails, least privilege, and visibility**, not shortcuts.
+Cloud adoption is approached through guardrails, least privilege,
+visibility, and controlled change management.
 
----
+------------------------------------------------------------------------
 
 ## 🛠️ Technologies & Platforms
 
-Linux · VMware · KVM · AWS · Terraform · Ansible · Jenkins ·  
-Kubernetes · EKS · IAM · RMF · ACAS · DevSecOps
+Linux · VMware · KVM · AWS · Terraform · Ansible · Jenkins ·\
+Kubernetes · EKS · IAM · DevSecOps
 
----
+------------------------------------------------------------------------
 
 ## 📌 Featured Repositories (Cloud Security & DevSecOps)
 
 ### 🔹 AWS Cloud Security Foundations
-A **security-first AWS learning repository** focused on IAM, logging, network controls, and audit-ready cloud design.
 
-- Shared responsibility model
-- Least-privilege IAM patterns
-- Visibility and logging fundamentals
-- Certification-aligned without “click-through” labs
+A security-first AWS repository focused on IAM, logging, network
+controls, and audit-ready cloud design.
+
+-   Shared responsibility model\
+-   Least-privilege IAM patterns\
+-   Visibility and logging fundamentals\
+-   Certification-aligned without "click-through" labs
 
 https://github.com/tucker-st/aws-cloud-security-foundations
 
----
+------------------------------------------------------------------------
 
 ### 🔹 AWS EKS Secure Foundations
-A **single-region, security-first Amazon EKS foundation** built with Terraform.
 
-- IAM Roles for Service Accounts (IRSA) with OIDC
-- Secure EKS add-ons deployed via Helm
-- Observability and operational readiness
-- Explicit scope and guardrails (not multi-region)
+A single-region, security-first Amazon EKS foundation built with
+Terraform.
 
-This repository emphasizes **auditability, correctness, and operational realism** over feature sprawl.
+-   IAM Roles for Service Accounts (IRSA) with OIDC\
+-   Secure EKS add-ons deployed via Helm\
+-   Observability and operational readiness\
+-   Explicit scope and guardrails
+
+Emphasizes auditability, correctness, and operational realism over
+feature sprawl.
 
 https://github.com/tucker-st/aws-eks-secure-foundations
 
----
+------------------------------------------------------------------------
 
 ### 🔹 Secure IaC Foundations
+
 A guardrail-focused approach to Infrastructure as Code.
 
-- Terraform structure and state safety
-- Change impact awareness
-- Secure defaults
-- Automation with intent, not abstraction for its own sake
+-   Terraform structure and state safety\
+-   Change impact awareness\
+-   Secure defaults\
+-   Automation with intent
 
 https://github.com/tucker-st/secure-iac-foundations
 
----
+------------------------------------------------------------------------
 
 ### 🔹 Container Image Hygiene & Change Visibility
-A **platform hygiene control** focused on Docker image lifecycle awareness and change tracking.
 
-- Captures Docker image state before and after updates
-- Pulls existing images with explicit visibility into change
-- Produces reproducible, reviewable change artifacts (diffs and logs)
-- Designed to support operational hygiene, drift awareness, and evidence generation
+A platform hygiene control focused on Docker image lifecycle awareness
+and change tracking.
 
-This repository demonstrates **DevSecOps lifecycle discipline and change visibility**, not vulnerability scanning or compliance tooling.
+-   Captures Docker image state before and after updates\
+-   Produces reproducible, reviewable change artifacts\
+-   Supports operational hygiene and drift awareness
+
+Demonstrates DevSecOps lifecycle discipline and change visibility.
 
 https://github.com/tucker-st/docker-image-assurance
 
----
+------------------------------------------------------------------------
 
-### 🔹 RMF Operational Playbooks
-A documentation-focused repository translating RMF concepts into **day-to-day operational workflows**.
+### 🔹 Operational Security Playbooks
 
-- Continuous monitoring practices
-- POA&M lifecycle management
-- Inspector and auditor expectations
-- Practical compliance guidance
+A documentation-focused repository translating governance concepts into
+day-to-day operational workflows.
+
+-   Continuous monitoring practices\
+-   Remediation lifecycle tracking\
+-   Inspector and auditor expectations\
+-   Practical compliance guidance
 
 https://github.com/tucker-st/rmf-operational-playbooks
 
----
+------------------------------------------------------------------------
 
 ## 🧱 Foundational Systems Expertise
 
-### 🔹 RHCSA (EX200) Practice Repository – RHEL 10
-A **hands-on Linux administration and validation repository** demonstrating production-grade system administration fundamentals that underpin secure cloud, container, and virtualized platforms.
+### 🔹 RHCSA (EX200) Practice Repository -- RHEL 10
 
-- SELinux enforcing and firewalld enabled by default
-- Persistence and reboot validation (no ephemeral fixes)
-- Read-only auto-grading with manual verification
-- Timed mock exams aligned with real operational pressure
+A hands-on Linux administration and validation repository demonstrating
+production-grade system fundamentals that underpin secure cloud and
+container platforms.
 
-This repository reinforces the **Linux operational discipline** required for secure Kubernetes, hardened cloud workloads, and compliance-aware environments.
+-   SELinux enforcing and firewalld enabled\
+-   Persistence and reboot validation\
+-   Read-only auto-grading with manual verification\
+-   Timed mock exams aligned with operational pressure
+
+Reinforces the Linux discipline required for secure Kubernetes and
+hardened cloud workloads.
 
 https://github.com/tucker-st/rhcsa-ex200
 
----
+------------------------------------------------------------------------
 
 ## 🔍 How I Approach Problems
 
-- Read the requirement carefully  
-- Plan before typing  
-- Implement minimally  
-- Validate immediately  
-- **Reboot and re-validate**  
+-   Read the requirement carefully\
+-   Plan before implementation\
+-   Implement minimally\
+-   Validate immediately\
+-   Reboot and re-validate
 
-If it doesn’t survive reboot, it isn’t finished.
+If it doesn't survive reboot, it isn't finished.
 
----
+------------------------------------------------------------------------
 
 ## 💼 Professional Philosophy
 
-- Security controls should be **enforced**, not bypassed
-- Automation should **amplify understanding**, not hide risk
-- Validation and documentation are part of the system
-- Clean, minimal systems are easier to secure and maintain
-- Modernization must respect operational reality
+-   Security controls should be enforced, not bypassed\
+-   Automation should amplify understanding, not obscure risk\
+-   Validation and documentation are part of the system\
+-   Clean, minimal systems are easier to secure and sustain\
+-   Modernization must respect operational realities
 
----
+------------------------------------------------------------------------
 
 ## 🤝 Collaboration
 
 Open to collaboration around:
 
-- Secure infrastructure design
-- DevSecOps enablement
-- Cloud security transition strategies
-- Compliance-aware automation
+-   Secure infrastructure design\
+-   DevSecOps enablement\
+-   Cloud security transition strategies\
+-   Compliance-aware automation
 
-Issues and discussions are welcome where appropriate.
+------------------------------------------------------------------------
 
----
-
-This profile and its repositories are intended to demonstrate **practical skill, operational judgment, and security discipline** — not theoretical security alone.
+This profile and its repositories demonstrate practical skill,
+operational judgment, and security discipline applied to modern cloud
+environments.
