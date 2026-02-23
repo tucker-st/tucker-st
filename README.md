@@ -101,7 +101,7 @@ A **platform hygiene control** focused on Docker image lifecycle awareness and c
 
 This repository demonstrates **DevSecOps lifecycle discipline and change visibility**, not vulnerability scanning or compliance tooling.
 
-https://github.com/tucker-st/docker-image-hygiene
+https://github.com/tucker-st/docker-image-assurance
 
 ---
 
