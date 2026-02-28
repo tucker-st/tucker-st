@@ -156,6 +156,3 @@ Open to collaboration in:
 -   Compliance-aware automation
 
 ------------------------------------------------------------------------
-
-This portfolio reflects practical skill, operational judgment, and
-governance-driven security applied to modern cloud environments.
